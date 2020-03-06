@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Seungho Choe (P.I.)
+name: 
 
 # Username (this should match the folder name)
 authors:
 - admin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: 
 
 # Role/position
-role: Associate Professor
+role: 
 
 # Organizations/Affiliations
 #organizations:
@@ -19,24 +19,8 @@ role: Associate Professor
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-#bio: []
+bio: []
 
-interests:
-- Theoretical Physics
-- Computational Physics
-- Computational Biophysics
-
-education:
-  courses:
-  - course: PhD in Physics
-    institution: Yonsei University
-    year: 1997
-  - course: MSc in Physics
-    institution: Yonsei University
-    year: 1992
-  - course: BSc in Physics
-    institution: Yonsei University
-    year: 1989
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
