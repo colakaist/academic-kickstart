@@ -14,5 +14,5 @@ author = ""
 
  # Background image.
 image = "title_page.png"  # Name of image in `static/img/`.
-image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 +++
