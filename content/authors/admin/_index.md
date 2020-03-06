@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Seungho Choe
+name: Seungho Choe (P.I.)
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+#bio: 
 
 interests:
 - Theoretical Physics
