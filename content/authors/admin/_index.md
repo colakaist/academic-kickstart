@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Physics
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-I am an assocaite professor of physics at  ... My research interests include ... 
+#I am an assocaite professor of physics at  ... My research interests include ... 
 
