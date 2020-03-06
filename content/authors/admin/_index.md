@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ... 
+bio: 
 
 interests:
 - Theoretical Physics
@@ -66,6 +66,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-#I am an assocaite professor of physics at  ... My research interests include ... 
 
