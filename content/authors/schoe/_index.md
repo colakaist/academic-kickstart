@@ -21,10 +21,12 @@ organizations: []
 # Short bio (displayed in user profile at end of posts)
 bio: []
 
-interests:
-- Theoretical Physics
-- Computational Physics
-- Computational Biophysics
+#interests: 
+#- Theoretical Physics
+#- Computational Physics
+#- Computational Biophysics
+
+interests: []
 
 education:
   courses:
@@ -63,5 +65,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ["Principal Investigators"]
-- Principal Investigators
+#- Principal Investigators
 ---
