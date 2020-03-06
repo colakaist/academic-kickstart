@@ -3,8 +3,8 @@
 name: 
 
 # Username (this should match the folder name)
-authors:
-- admin
+authors: 
+
 
 # Is this the primary user of the site?
 superuser: true
