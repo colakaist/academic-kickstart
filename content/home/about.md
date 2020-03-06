@@ -11,4 +11,8 @@ title = "Welcome to the Multi-Scale Biophysics Lab"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = ""
+
+ # Background image.
+image = "background.jpg"  # Name of image in `static/img/`.
+image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 +++
