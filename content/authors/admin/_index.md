@@ -13,12 +13,14 @@ superuser: true
 role: Associate Professor
 
 # Organizations/Affiliations
-organizations:
-- name: Daegu-Gyeongbuk Institute of Science & Technology(DGIST)
-  url: ""
+#organizations:
+#- name: Daegu-Gyeongbuk Institute of Science & Technology(DGIST)
+#  url: ""
+[]
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
+[]
 
 interests:
 - Theoretical Physics
