@@ -16,11 +16,10 @@ role: Associate Professor
 #organizations:
 #- name: Daegu-Gyeongbuk Institute of Science & Technology(DGIST)
 #  url: ""
-[]
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
-[]
+bio: []
 
 interests:
 - Theoretical Physics
