@@ -35,6 +35,7 @@ subtitle = ""
   
   # Background color.
   # color = "navy"
+   color = ""
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
