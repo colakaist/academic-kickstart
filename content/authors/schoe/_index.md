@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Seungho Choe (P.I.)
+name: Seungho Choe
 
 # Username (this should match the folder name)
-authors:
-- admin
+authors: 
+- schoe
 
 # Is this the primary user of the site?
 superuser: true
@@ -63,6 +63,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigator
 ---
