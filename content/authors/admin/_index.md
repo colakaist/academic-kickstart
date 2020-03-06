@@ -19,7 +19,7 @@ role:
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-#bio: []
+bio: []
 
 
 # Social/Academic Networking
@@ -39,6 +39,6 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: []
 
 ---
