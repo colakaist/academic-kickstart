@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:schoe@dgist.ac.kr".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.kr/citations?user=aacf-VcAAAAJ&hl=ko
 - icon: github
   icon_pack: fab
   link: https://github.com/colakaist
