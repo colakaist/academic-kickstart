@@ -19,7 +19,7 @@ role: Associate Professor
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-#bio: []
+bio: []
 
 interests:
 - Theoretical Physics
